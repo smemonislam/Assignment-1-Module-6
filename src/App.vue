@@ -179,7 +179,7 @@ function logout() {
             </button>
             <a
               class="inline-block align-baseline font-bold text-sm text-orange-600 hover:text-orange-800"
-              href="#"
+              href="javascript:void(0)"
               @click="isRegistration()"
             >
               Or Register
