@@ -161,7 +161,7 @@ function logout() {
             <input
               class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 mb-3 leading-tight focus:outline-none focus:shadow-outline"
               id="confirm_password"
-              type="confirm_password"
+              type="password"
               placeholder="******************"
               v-model="register.confirmPassword"
             />
